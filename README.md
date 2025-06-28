@@ -1,4 +1,5 @@
 # 💬 WhatsApp Chat Analyzer with Sentiment Analysis
+https://whatsapp-chat-analyzer2.streamlit.app/ (Streamlit Community Cloud)
 
 A Python + Streamlit web app that analyzes WhatsApp chat exports and gives detailed insights into message activity, most active users, common words, emoji usage, and the emotional tone of the conversation using sentiment analysis.
 
